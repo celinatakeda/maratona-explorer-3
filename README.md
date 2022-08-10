@@ -1,2 +1,4 @@
-# maratona-explorer-3
- Criando menu digital RocketCoffee
+# RocketCoffee
+Desenvolvendo menu digital chamado RocketCoffee.
+
+Utilizando HTML, CSS e Javascript
