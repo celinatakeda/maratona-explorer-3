@@ -1,6 +1,8 @@
 # RocketCoffee
 Desenvolvendo menu digital chamado RocketCoffee.
 
+![rocketCoffee](https://user-images.githubusercontent.com/82118386/183934290-4fac935c-2fe0-45c9-802f-81a3c2adc426.png)
+
 Deploy feito na Netlify 
 https://app.netlify.com/.
 
