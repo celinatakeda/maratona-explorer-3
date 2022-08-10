@@ -1,13 +1,15 @@
 # RocketCoffee
-Desenvolvendo menu digital chamado RocketCoffee.
+Menu digital RocketCoffee.
 
 ![rocketCoffee](https://user-images.githubusercontent.com/82118386/183934290-4fac935c-2fe0-45c9-802f-81a3c2adc426.png)
 
-Deploy feito na Netlify 
+## Deploy feito na Netlify 
 https://app.netlify.com/.
 
-## Domínio e qrCode 
+## Domínio  
 https://glittery-boba-064bdb.netlify.app/
+
+## qrCode
 
 ![frame](https://user-images.githubusercontent.com/82118386/183934065-e30bef76-0a94-48bf-ada2-565103732b66.png)
 
