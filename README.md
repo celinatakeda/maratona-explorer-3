@@ -9,7 +9,9 @@ https://glittery-boba-064bdb.netlify.app/
 
 ## Acesse o QR Code
 
-![frame](https://user-images.githubusercontent.com/82118386/183934065-e30bef76-0a94-48bf-ada2-565103732b66.png)
+<p align="center">
+  <img src=".github/rocketCoffee.png">
+</p>
 
 ## Sites Úteis
 
