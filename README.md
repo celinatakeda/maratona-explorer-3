@@ -1,4 +1,5 @@
 # Menu digital RocketCoffee.
+Projeto de um cardápio digital. 
 
  Deploy feito na Netlify. 
 
