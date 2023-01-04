@@ -1,7 +1,9 @@
 # Menu digital RocketCoffee.
-Desenvolvendo um cardápio digital. 
+Desenvolvemos um cardápio digital. 
 
- Deploy feito na Netlify. 
+Deploy feito na Netlify. 
+
+Geramos um QR Code.
 
  <p align="center">
   <img src=".github/rocketCoffee.png">
